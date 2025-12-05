@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment / Playwright dependencies
+playwright/
+.env
+.venv/
+*.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Excel files or other raw data you don't want to push
+*.xlsx
+*.xls
+*.csv
+
+# Any old scripts you want ignored
+scrap
+scrap2
