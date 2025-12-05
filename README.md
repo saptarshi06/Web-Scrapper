@@ -40,7 +40,7 @@ playwright install
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Web-Scrapper.git
+git clone https://github.com/saptarshi06/Web-Scrapper
 cd Web-Scrapper
 
 ▶️ Usage
