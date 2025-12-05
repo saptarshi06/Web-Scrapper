@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 import pandas as pd
 import time
 
-BASE_URL = "https://www.myntra.com/personal-care?f=Categories%3ALipstick&p={}"
+BASE_URL = "{}"
 
 # Updated auto-scroll: scroll in increments to trigger lazy-loaded images
 def auto_scroll(page, step=500):
