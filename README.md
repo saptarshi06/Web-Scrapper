@@ -45,7 +45,7 @@ cd Web-Scrapper
 
 ▶️ Usage
 
-Run the script to scrape up to 5 pages by default:
+Run the script and paste product site url to scrape up to 5 pages by default:
 
 python myntra_scraper.py
 
